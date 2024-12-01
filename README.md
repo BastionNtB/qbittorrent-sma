@@ -23,5 +23,5 @@ Follow the [steps for qBittorrent](https://github.com/mdhiggins/sickbeard_mp4_au
 
 The path you need to define for `qBittorrentPostProcess.py` is as follows: 
 ```
-${SMA_PATH}/venv/bin/python /usr/local/sma/qBittorrentPostProcess.py "%L" "%T" "%R" "%F" "%N" "%I"
+/usr/local/sma/venv/bin/python /usr/local/sma/qBittorrentPostProcess.py "%L" "%T" "%R" "%F" "%N" "%I"
 ```
