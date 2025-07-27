@@ -1,5 +1,5 @@
 # qbittorrent-sma
-Docker image based on [linuxserver/qbittorrent](https://hub.docker.com/r/linuxserver/qbittorrent) that includes all FFMPEG and python requirements to run [sickbeard mp4 automator (SMA)](https://github.com/mdhiggins/sickbeard_mp4_automator) with qBittorrent.
+Docker image based on [hotio/qbittorrent](https://hotio.dev/containers/qbittorrent/) that includes all FFMPEG and python requirements to run [sickbeard mp4 automator (SMA)](https://github.com/mdhiggins/sickbeard_mp4_automator) with qBittorrent.
 
 ## Sickbeard MP4 Automator Setup
 
