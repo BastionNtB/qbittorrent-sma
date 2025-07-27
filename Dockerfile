@@ -1,4 +1,4 @@
-FROM linuxserver/qbittorrent
+FROM ghcr.io/hotio/qbittorrent
 
 ENV SMA_PATH /usr/local/sma
 
